@@ -1,0 +1,12 @@
+.container-fluid{
+    width: 90% !important;
+}
+.container{
+    width: 90% !important;
+}
+
+.custom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
